@@ -1,0 +1,16 @@
+const m = suma, n = numero; 
+var x, y, z, q, r;
+procedure multiplicar;
+var sum1, b;
+
+begin a := x; b := y; z := v;
+	while b>suma do
+	begin
+	  if odd b then
+	  a := r * a; b := b/u
+	end
+end;
+begin
+	while k>h do
+	a:=j45+g90
+end.
